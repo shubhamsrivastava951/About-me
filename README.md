@@ -28,12 +28,12 @@
 
 # [Skills](https://github.com/shubhamsrivastava951/)
 
-1 Python & R	
-2	Computational Statistics	
-3	Machine and Deep Learning	
-4	Visual Analytics	
-5	DBMS & SQL	
-6	Management Concepts
+1. Python & R	
+2.	Computational Statistics	
+3.	Machine and Deep Learning	
+4.	Visual Analytics	
+5.	DBMS & SQL	
+6.	Management Concepts
 
 # Certifications
 *
