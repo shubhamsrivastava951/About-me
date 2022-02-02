@@ -24,3 +24,16 @@
 * Worked as UI developer Coordinated with project teams on development timelines Determined business and functional requirements for business needs.
 * Tested programs and made necessary modifications.
 *  Modified existing designs to meet unique needs.
+
+
+# [Skills](https://github.com/shubhamsrivastava951/)
+
+1 Python & R	
+2	Computational Statistics	
+3	Machine and Deep Learning	
+4	Visual Analytics	
+5	DBMS & SQL	
+6	Management Concepts
+
+# Certifications
+*
