@@ -26,6 +26,19 @@
 *  Modified existing designs to meet unique needs.
 
 
+# Research Experience
+
+## [1. Classification Paper](http://ijsrd.com/Article.php?manuscript=IJSRDV6I20166) 
+
+* This paper aims to address most popular and interesting problem from the field of classification. Choosing a suitable classifier for a given problem which itself has been a challenging problem that typically requires experimentation with different classification techniques
+
+## [2. Survey Paper](http://ijsrd.com/Article.php?manuscript=IJSRDV7I60163)
+
+* Consumer plays an important role in the successful achievement of organizational goals.
+* According to the new concept of marketing[1],consumers act as a king around which all the business activities rotate.
+* This paper aims to analyze the factors that influence consumers to purchase a mobile phones.
+* This survey paper studies the various attributes through which consumers decision of buying a product fluctuates.
+
 # [Skills](https://github.com/shubhamsrivastava951/)
 
 1. Python & R	
