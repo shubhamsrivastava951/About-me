@@ -49,4 +49,11 @@
 6.	Management Concepts
 
 # Certifications
-*
+1. Udemy: Data Science Certification
+2. Udemy: Statistics for Data Science
+3. LinkedIn Tableau &SQL
+4. Edwisor.com: Data Science in Pyhton and R
+5. Udemy: Python
+6. Udemy: Tableau Data Analyst Certification
+7. LinkedIn: Data Analyst Certification
+8. Tableau Certified Data Analyst(Ongoing)
