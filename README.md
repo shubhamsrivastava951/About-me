@@ -23,11 +23,11 @@
 * Ensures compliance with data privacy regulations and best practices.
 * Prepares reports of data results, presenting and explaining findings to senior leadership.
 
-# 2. [Software Developer INTERN, SMART SOFTWARE TESTING SOLUTIONS](https://www.opkey.com/)
+# 2. [Software Developer INTERN, Smart Software Testing Solutions](https://www.opkey.com/)
 ### OCT 2017- JAN 2018
 * Worked as UI developer Coordinated with project teams on development timelines Determined business and functional requirements for business needs. Tested programs and made necessary modifications. Modified existing designs to meet unique needs.
 
-# 3. [INTERN, WIPRO LIMITED](https://www.wipro.com/)
+# 3. [INTERN, Wipro LIMITED](https://www.wipro.com/)
 ### JUNE 2016 - JULY 2016
 * Ensured functionality & corrected prior to website launches. Networked and built presence with peers to facilitate the testing of the website. Built reports and Collaborated with professional team to solve issues.
 
