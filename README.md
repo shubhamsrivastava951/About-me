@@ -13,7 +13,23 @@
 
 # Organisational Experience
 
-# 1. [Business Analyst INTERN, Ashita Business Solutions](http://www.ashitaconsultants.com/)
+# 1. [Tutor , The University of Sydney](https://www.sydney.edu.au/)
+### July 2022 -current
+###Job Role: Tutor (IT Service Management - Postgraduate level)
+###Job Responsibilities
+*	Coordinated lesson plans, course materials, and discussion questions to prepare for the session.
+*	Course including teaching ITIL Lifecycle, Internal & External Analysis, Portfolio Management, Change management, Service Operations & IT Governance.
+*	Helped students develop critical thinking skills and strong study habits to improve grades.
+
+# 2. [Coles Supermarket](https://www.coles.com.au/)  
+### March 2022-Current
+###Job role: Senior Customer Service Representative
+###Job Responsibilities
+*	Communicated best practices to team members, continuously helping to optimize standard operating procedures for responses to different concerns.
+*	Restored satisfaction and loyalty in customers by Delivering high-quality service to customers 
+*	Defined problems and draw valid conclusions to build effective solutions for customers and staff.
+
+# 3. [Business Analyst INTERN, Ashita Business Solutions](http://www.ashitaconsultants.com/)
 ### AUG 2018- MARCH 2019
 * Worked as Business Analyst Intern.
 * Collects and compiles HR metrics and data from a variety of sources.
@@ -23,11 +39,11 @@
 * Ensures compliance with data privacy regulations and best practices.
 * Prepares reports of data results, presenting and explaining findings to senior leadership.
 
-# 2. [Software Developer INTERN, Smart Software Testing Solutions](https://www.opkey.com/)
+# 4. [Software Developer INTERN, Smart Software Testing Solutions](https://www.opkey.com/)
 ### OCT 2017- JAN 2018
 * Worked as UI developer Coordinated with project teams on development timelines Determined business and functional requirements for business needs. Tested programs and made necessary modifications. Modified existing designs to meet unique needs.
 
-# 3. [INTERN, Wipro LIMITED](https://www.wipro.com/)
+# 5. [INTERN, Wipro LIMITED](https://www.wipro.com/)
 ### JUNE 2016 - JULY 2016
 * Ensured functionality & corrected prior to website launches. Networked and built presence with peers to facilitate the testing of the website. Built reports and Collaborated with professional team to solve issues.
 
