@@ -29,7 +29,7 @@
 *	Restored satisfaction and loyalty in customers by Delivering high-quality service to customers 
 *	Defined problems and draw valid conclusions to build effective solutions for customers and staff.
 
-# 3. [Business Analyst INTERN, Ashita Business Solutions](http://www.ashitaconsultants.com/)
+# 3. [Business Analyst INTERN, Ashita Consultants](http://www.ashitaconsultants.com/)
 ### AUG 2018- AUG 2019
 * Worked as Business Analyst Intern.
 * Collects and compiles HR metrics and data from a variety of sources.
