@@ -30,10 +30,14 @@
 *	Defined problems and draw valid conclusions to build effective solutions for customers and staff.
 
 # 3. [Business Analyst INTERN, Ashita Business Solutions](http://www.ashitaconsultants.com/)
-### AUG 2018- MARCH 2019
+### AUG 2018- AUG 2019
 * Worked as Business Analyst Intern.
 * Collects and compiles HR metrics and data from a variety of sources.
+* Performed Requirement Analysis and gathered the data from a variety of Sources
 * Analyses data and statistics for trends and patterns with attention to recruitment, hiring practices, motivation, turnover, and compliance with employment laws and regulations.
+*	Identified organizational challenges through SWOT and PESTLE Analysis and helped stakeholders with objective formulation through consultations
+* Performed gap analysis between solutions and the stakeholder need.
+* Assisted with risks, issues, and project change management.
 * Identifies and recommends reasonable short- and long-term goals, milestones, and benchmarks for key  performance metrics.
 * Based on metrics and analysis, makes recommendations for policies and activities to improve the organizational culture including suggestions to attract and hire qualified candidates, motivate and retain employees, address staffing issues, and maintain legal compliance.
 * Ensures compliance with data privacy regulations and best practices.
