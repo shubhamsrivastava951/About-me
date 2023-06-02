@@ -2,7 +2,7 @@
 
 # [Education](https://github.com/shubhamsrivastava951/Machine-Learning-Projects)
 
-1. Pursued Master in IT with a major in Data Analytics & Management. ‘University of Sydney Feb,2020 - Dec, 2021’
+1. Pursued Master in IT with a major in Data Analytics & Management. ‘University of Sydney Feb,2020 - Feb, 2022’
 
 2. Completed Bachelors in Computer Science Engineering. ‘University of Petroleum & Energy Studies, Dehradun 2013-2017’
 
